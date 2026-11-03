@@ -5,7 +5,11 @@
 
 ## About
 
-Infrastructure & Identity Engineer with 15+ years of experience designing, implementing, managing, and migrating enterprise IT environments. Specialized in Microsoft Azure, Microsoft Entra ID, Active Directory, Microsoft 365, Okta, Intune, and enterprise infrastructure. Proven experience leading complex infrastructure modernization initiatives, cloud migrations, identity integrations, endpoint management deployments, and security remediation efforts. Combines hands-on engineering expertise with cross-functional collaboration, technical project leadership, and mentoring of IT personnel.
+Senior Infrastructure & Identity Engineer with 15+ years of experience designing, modernizing, securing, and supporting enterprise IT environments serving up to 3,500 users and 5,000 devices. Extensive hands-on expertise in Microsoft Azure, Entra ID, Active Directory, Microsoft 365, Intune, Okta, and VMware infrastructure.
+
+Experienced technical lead for Microsoft Intune implementations, enterprise endpoint modernization, hybrid identity integration, infrastructure migrations, and security remediation initiatives. 
+
+Combines deep technical engineering expertise with project ownership, cross-functional collaboration, automation, and mentorship of IT personnel.
 
 ---
 
